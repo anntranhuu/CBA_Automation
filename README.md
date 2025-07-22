@@ -21,10 +21,10 @@ This project automates a Cost-Benefit Analysis (CBA) in line with methodologies 
 - Discounting logic for multiyear infrastructure timelines
 - Visual comparison of total discounted benefits vs. costs
 - Modular design with clearly separated steps:
-- Data simulation
-- SQL integration
-- CBA computation
-- Result visualisation
+  - Data simulation
+  -  SQL integration
+  - CBA computation
+  - Result visualisation
 
 ## 🧪 Example Outputs 
 - 📉 NPV: Shows if the project yields net economic value
