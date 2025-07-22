@@ -1,2 +1,2 @@
 # CBA_Automation
-Mini project of CBA automation
+Mini project on CBA automation
